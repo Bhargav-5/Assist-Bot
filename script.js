@@ -1,4 +1,4 @@
-let selectedImage = null;  
+let selectedImage = null;
 
 const micBtn = document.getElementById('micBtn');
 const micModal = document.getElementById('micModal');
